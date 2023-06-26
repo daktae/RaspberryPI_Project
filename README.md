@@ -44,10 +44,10 @@
   <img src="https://github.com/daktae/RaspberryPI_Project/assets/66005780/99606fb0-9ec9-4591-8b07-3e954f2aac9f" width="400">
 </p>
 
-## 게임 플레이
+## :video_game: 게임 플레이
 - [싱글플레이] https://youtu.be/L9irJsP7_VI
 - [멀티플레이] https://youtu.be/qvbSIpQC-Ts
 
-## 아쉬운 점
+## :memo: 아쉬운 점
 - 기획에 있어서 게임 실행에 있어서, 터치스크친을 통한 터치로 게임 진행을 목표로 하였다, 화면 크기로 인해 라즈베리파이 정품 터치스크린이 아닌 일반 디스플레이로 대체하여 터치가 되지 않았다. 이런 부족한 면도 있지만, 모든 활용한 소스가 오픈소스라는 점에서 만든 프로그램을 Github를 통해서 자유롭게 수정, 배포, 활용이 가능하다는 점이 장점이라고 생각한다. 
 
