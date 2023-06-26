@@ -20,6 +20,7 @@
 ### H/W
 <img src="https://img.shields.io/badge/Arduino-00979d?style=flat&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry Pi 4-a22846?style=flat&logo=RaspberryPi&logoColor=white"/> 
 
+<hr>
 
 # 기능 구현
 ### :star: 싱글플레이 구현
