@@ -9,16 +9,15 @@
 
 # 기술 스택
 ### Environment
-<img src="https://img.shields.io/badge/Visual Studio-5c2d91?style=flat&logo=VisualStudio&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual Studio-5c2d91?style=for-the-badge&logo=VisualStudio&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=Git&logoColor=white"/>
 
 ### Language
-<img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=CSharp&logoColor=white"/>  <img src="https://img.shields.io/badge/Python-3776ab?style=flat&logo=Python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=CSharp&logoColor=white"/>  <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=Python&logoColor=white"/> 
 
 ### Game Engine / Server
-<img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white"/> , Photon Server
-
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/Photon Server-004480?style=for-the-badge&logo=&logoColor=white"/> 
 ### H/W
-<img src="https://img.shields.io/badge/Arduino-00979d?style=flat&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry Pi 4-a22846?style=flat&logo=RaspberryPi&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Arduino-00979d?style=for-the-badge&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry Pi 4-a22846?style=for-the-badge&logo=RaspberryPi&logoColor=white"/> 
 
 <hr>
 
